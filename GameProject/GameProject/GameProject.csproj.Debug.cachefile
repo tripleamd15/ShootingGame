@@ -4,9 +4,9 @@ Content\teddybear.xnb
 Content\teddybearprojectile.xnb
 Content\explosion.xnb
 Content\frenchfries.xnb
-Content\sounds\BurgerDamage.xnb
-Content\sounds\BurgerDeath.xnb
-Content\sounds\BurgerShot.xnb
-Content\sounds\Explosion.xnb
-Content\sounds\TeddyBounce.xnb
-Content\sounds\TeddyShot.xnb
+Content\Sounds\BurgerDamage.xnb
+Content\Sounds\BurgerDeath.xnb
+Content\Sounds\BurgerShot.xnb
+Content\Sounds\Explosion.xnb
+Content\Sounds\TeddyBounce.xnb
+Content\Sounds\TeddyShot.xnb

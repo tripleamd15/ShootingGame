@@ -16,3 +16,21 @@ C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\Game
 C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\Explosion.xnb
 C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyBounce.xnb
 C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyShot.xnb
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerDamage.xnb
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerDeath.xnb
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerShot.xnb
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\Sounds\Explosion.xnb
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\Sounds\TeddyBounce.xnb
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\Sounds\TeddyShot.xnb
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\obj\x86\Debug\GameProject.pdb

@@ -14,6 +14,7 @@ namespace GameProject
     /// <summary>
     /// This is the main type for your game
     /// </summary>
+    /// 7/17/16 updated
     public class Game1 : Microsoft.Xna.Framework.Game
     {
         GraphicsDeviceManager graphics;

@@ -7,8 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb</Output>
-      <Time>2015-04-06T23:14:02.4034003-04:00</Time>
+      <Output>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb</Output>
+      <Time>2016-07-17T12:56:21.0452547-04:00</Time>
     </Item>
     <Item>
       <Source>burger.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb</Output>
-      <Time>2015-04-06T23:14:02.4133978-04:00</Time>
+      <Output>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb</Output>
+      <Time>2016-07-17T12:56:21.0921352-04:00</Time>
     </Item>
     <Item>
       <Source>teddybear.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb</Output>
-      <Time>2015-04-06T23:14:02.4534019-04:00</Time>
+      <Output>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb</Output>
+      <Time>2016-07-17T12:56:21.1233874-04:00</Time>
     </Item>
     <Item>
       <Source>teddybearprojectile.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb</Output>
-      <Time>2015-04-06T23:14:02.4633994-04:00</Time>
+      <Output>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb</Output>
+      <Time>2016-07-17T12:56:21.1233874-04:00</Time>
     </Item>
     <Item>
       <Source>explosion.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb</Output>
-      <Time>2015-04-06T23:14:02.433401-04:00</Time>
+      <Output>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2016-07-17T12:56:21.0921352-04:00</Time>
     </Item>
     <Item>
       <Source>frenchfries.png</Source>
@@ -52,62 +52,62 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb</Output>
-      <Time>2015-04-06T23:14:02.4433985-04:00</Time>
+      <Output>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb</Output>
+      <Time>2016-07-17T12:56:21.0921352-04:00</Time>
     </Item>
     <Item>
-      <Source>sounds\BurgerDamage.wav</Source>
-      <Name>sounds\BurgerDamage</Name>
+      <Source>Sounds\BurgerDamage.wav</Source>
+      <Name>Sounds\BurgerDamage</Name>
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDamage.xnb</Output>
-      <Time>2015-04-06T23:14:02.4934022-04:00</Time>
+      <Output>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerDamage.xnb</Output>
+      <Time>2016-07-17T12:56:21.0608809-04:00</Time>
     </Item>
     <Item>
-      <Source>sounds\BurgerDeath.wav</Source>
-      <Name>sounds\BurgerDeath</Name>
+      <Source>Sounds\BurgerDeath.wav</Source>
+      <Name>Sounds\BurgerDeath</Name>
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDeath.xnb</Output>
-      <Time>2015-04-06T23:14:02.5134043-04:00</Time>
+      <Output>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerDeath.xnb</Output>
+      <Time>2016-07-17T12:56:21.0608809-04:00</Time>
     </Item>
     <Item>
-      <Source>sounds\BurgerShot.wav</Source>
-      <Name>sounds\BurgerShot</Name>
+      <Source>Sounds\BurgerShot.wav</Source>
+      <Name>Sounds\BurgerShot</Name>
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerShot.xnb</Output>
-      <Time>2015-04-06T23:14:02.5334047-04:00</Time>
+      <Output>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerShot.xnb</Output>
+      <Time>2016-07-17T12:56:21.0765097-04:00</Time>
     </Item>
     <Item>
-      <Source>sounds\Explosion.wav</Source>
-      <Name>sounds\Explosion</Name>
+      <Source>Sounds\Explosion.wav</Source>
+      <Name>Sounds\Explosion</Name>
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\Explosion.xnb</Output>
-      <Time>2015-04-06T23:14:02.5534051-04:00</Time>
+      <Output>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\Sounds\Explosion.xnb</Output>
+      <Time>2016-07-17T12:56:21.0765097-04:00</Time>
     </Item>
     <Item>
-      <Source>sounds\TeddyBounce.wav</Source>
-      <Name>sounds\TeddyBounce</Name>
+      <Source>Sounds\TeddyBounce.wav</Source>
+      <Name>Sounds\TeddyBounce</Name>
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyBounce.xnb</Output>
-      <Time>2015-04-06T23:14:02.573405-04:00</Time>
+      <Output>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\Sounds\TeddyBounce.xnb</Output>
+      <Time>2016-07-17T12:56:21.0765097-04:00</Time>
     </Item>
     <Item>
-      <Source>sounds\TeddyShot.wav</Source>
-      <Name>sounds\TeddyShot</Name>
+      <Source>Sounds\TeddyShot.wav</Source>
+      <Name>Sounds\TeddyShot</Name>
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyShot.xnb</Output>
-      <Time>2015-04-06T23:14:02.5934027-04:00</Time>
+      <Output>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\Sounds\TeddyShot.xnb</Output>
+      <Time>2016-07-17T12:56:21.0921352-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -116,10 +116,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProjectContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Liming\Documents\Visual Studio 2013\Projects\XNA games\GameProject\GameProject\GameProject\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Liming\Desktop\GibHub\Shootinggame\GameProject\GameProject\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

@@ -1,1 +1,0 @@
-This is 2D shooting game build with XNA framework.
